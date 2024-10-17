@@ -10,8 +10,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@hapi/boom": "^10.0.1",
         "@types/node": "^18.0.6",
-        "@whiskeysockets/baileys": "6.6.0",
+        "@whiskeysockets/baileys": "6.7.8",
         "body-parser": "^1.20.2",
         "chalk": "^5.0.1",
         "circular-json": "^0.5.9",
@@ -20,6 +21,7 @@
         "fs-extra": "^11.1.1",
         "jszip": "^3.10.1",
         "morgan": "^1.10.0",
+        "node-cache": "^5.1.2",
         "node-fetch": "^3.2.6",
         "path": "^0.12.7",
         "pino": "^8.1.0",
